@@ -25,4 +25,4 @@ Users need security when making subscriptions, updating email password and bank 
 
 ## Github Links
 * https://github.com/Shobes1421/Password-Generator
-* https://github.com/Shobes1421
+* https://shobes1421.github.io/Password-Generator/
